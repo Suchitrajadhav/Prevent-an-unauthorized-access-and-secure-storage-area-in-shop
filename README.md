@@ -1,0 +1,1 @@
+# Prevent-an-unauthorized-access-and-secure-storage-area-in-shop
